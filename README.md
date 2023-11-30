@@ -25,7 +25,3 @@ The `input.txt` and `example.txt` have to be inside the specific day folder. For
 ##
 
 Happy coding! ❄
-
-```
-
-```
