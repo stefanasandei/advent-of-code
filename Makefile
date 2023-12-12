@@ -1,5 +1,5 @@
 CC = gcc
-CFLAGS = -Wall -Wextra -std=c99
+CFLAGS = -g -Wall -Wextra -std=c99
 
 ifndef DAY
 DAY_OF_MONTH = $(shell date +%d)
