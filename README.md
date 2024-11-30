@@ -1,8 +1,6 @@
-# Advent of Code 2023 🎄
+# Advent of Code 🎄
 
-[Advent of Code](https://adventofcode.com/) is an yearly event, in the form of an Advent calendar, where you get to solve one problem a day until Christmas. These are my solution for this year and [these]() are my solution for 2022.
-
-https://adventofcode.com/2023
+[Advent of Code](https://adventofcode.com/) is an yearly event, in the form of an Advent calendar, where you get to solve one problem a day until Christmas.
 
 ## Workflow
 
@@ -11,7 +9,7 @@ Usually, the first day is pretty basic so I use the code from that day as a temp
 This project uses `make` as a build tool so to run the code from a specific day:
 
 ```console
-$ make DAY=day-01
+$ make DAY=01 PART=1
 ```
 
 Or if you want to run the project for the current day:
@@ -20,7 +18,7 @@ Or if you want to run the project for the current day:
 $ make
 ```
 
-The `input.txt` and `example.txt` have to be inside the specific day folder. For the sake of simplicity, the makefile runs the `main.c` file, which is either part 1 of part 2, I rename the file when I start to work on that part and name it back when I'm done.
+The `input.txt` and `example.txt` have to be inside the specific day folder. 
 
 ##
 

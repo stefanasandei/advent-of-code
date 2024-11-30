@@ -38,7 +38,7 @@ void solve(void) {
 }
 
 int main(void) {
-    FILE* fp = fopen("./day-01/input1.txt", "r");
+    FILE* fp = fopen("./day-01/input.txt", "r");
     err_n_die(fp == NULL, "Couldn't find the input file.");
    
     while(fgets(line, sizeof(line), fp) != NULL) {
