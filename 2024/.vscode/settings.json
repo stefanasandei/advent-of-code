@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "*.embeddedhtml": "html",
+        "ratio": "c",
+        "random": "c",
+        "iterator": "c"
+    }
+}
