@@ -3,6 +3,7 @@
         "*.embeddedhtml": "html",
         "ratio": "c",
         "random": "c",
-        "iterator": "c"
+        "iterator": "c",
+        "string.h": "c"
     }
 }
